@@ -9,7 +9,7 @@
 * [Data Declaration](#descrição-do-projeto)
 * [Read Data](## Read Data)
 
-##Parameters
+## Parameters
 ### Declaration
 ![image](https://github.com/avelin0/AMPL-guide/assets/12461215/3ed00e76-3211-4cd0-8bab-b59a60bf21f5)
 
