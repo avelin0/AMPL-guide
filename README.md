@@ -4,7 +4,7 @@
 # Index 
 
 * [Parameters](##Parameters)
-* [Sets](## Sets)
+* [Sets](##Sets)
 * [Longer Tuples](#índice)
 * [Data Declaration](#descrição-do-projeto)
 * [Read Data](## Read Data)
