@@ -1,4 +1,5 @@
 # AMPL-guide
+![image](https://github.com/avelin0/AMPL-guide/assets/12461215/321b8cef-093c-49c0-bb46-9faf26ddfe8a)
 
 ## Parameters
 ### Declaration
